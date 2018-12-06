@@ -5,8 +5,8 @@
 
 var friendsArray = [
   {
-    name: "Its me,ya boy",
-    photo: "https://i.ytimg.com/vi/k_-Lyktkdhw/maxresdefault.jpg",
+    name: "Mac miller",
+    photo: "https://www.youredm.com/wp-content/uploads/2018/09/mac-miller.jpg",
     scores: ["5","5","5","5","5","5","5","5","5","5"]
   },
   {
